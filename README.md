@@ -1,2 +1,3 @@
 # JavaProjects
-Projects that I made
+Project presented here is console app.
+Functions I'll write here later.
