@@ -1,2 +1,3 @@
 # JavaProjects
-Projects that I made
+Welcome, stranger! 
+Here are my projects, that I made while studying.
